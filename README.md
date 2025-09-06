@@ -27,7 +27,7 @@ This repository hosts the source code for TOMATO, a dynamic food ordering websit
 Clone the project
 
 ```bash
-    git clone 
+    git clone https://github.com/ArghyaPal-07/Tomato.git
 
 Go to the project directory
 
